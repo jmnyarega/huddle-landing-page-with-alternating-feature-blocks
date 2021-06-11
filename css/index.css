@@ -119,12 +119,12 @@ img {
     filter: invert(100%) sepia(0) saturate(50%) hue-rotate(3deg) brightness(1000%) contrast(100%);
     margin-bottom: 1rem; }
   .footer__contact {
-    margin: 1.5rem 0; }
+    margin: 3rem 0; }
   .footer__links-1, .footer__links-2 {
     list-style: none;
     padding: 0; }
     .footer__links-1 li, .footer__links-2 li {
-      margin: 0.5rem 0; }
+      margin: 1rem 0; }
     .footer__links-1 a, .footer__links-2 a {
       text-decoration: none; }
     .footer__links-1 a:visited, .footer__links-1 a:link, .footer__links-1 a:active, .footer__links-2 a:visited, .footer__links-2 a:link, .footer__links-2 a:active {
