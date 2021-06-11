@@ -1,0 +1,22 @@
+.hero {
+  margin: 5rem auto;
+
+  &__title {
+    font-size: 2rem;
+  }
+  &__para {
+    margin: 2rem 0;
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+
+  .button {
+    margin-bottom: 2rem;
+    width: 100%;
+    background-color: $pink;
+
+    &:visited, &:link, &:active {
+      color: $white;
+    }
+  }
+}
