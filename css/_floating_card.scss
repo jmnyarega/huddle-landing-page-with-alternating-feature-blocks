@@ -20,3 +20,10 @@
     }
   }
 }
+
+@media (min-width: 450px) {
+  .float-card {
+    width: 50%;
+    text-align: center;
+  }
+}

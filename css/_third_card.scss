@@ -8,11 +8,30 @@
   &__title {
     font-size: 1.5rem;
     margin-bottom: 1rem;
+    max-width: 20ch;
   }
 
   &__para {
     line-height: 1.6;
     font-size: 1.1rem;
     opacity: 0.7;
+    max-width: 55ch;
+  }
+}
+
+@media (min-width: 450px) {
+  .third-card {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: space-between;
+
+    &__img {
+      width: 45%;
+    }
+
+    &__content {
+      width: 49%;
+    }
   }
 }

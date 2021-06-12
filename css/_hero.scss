@@ -3,11 +3,13 @@
 
   &__title {
     font-size: 2rem;
+    max-width: 20ch;
   }
   &__para {
     margin: 2rem 0;
     font-size: 1.1rem;
     line-height: 1.6;
+    max-width: 55ch;
   }
 
   .button {
@@ -17,6 +19,25 @@
 
     &:visited, &:link, &:active {
       color: $white;
+    }
+  }
+}
+
+@media (min-width: 450px) {
+  .hero {
+    display: flex;
+    justify-content: space-between;
+
+    &__img {
+      width: 49%;
+    }
+
+    &__content {
+      width: 49%;
+    }
+
+    .button {
+      width: max-content;
     }
   }
 }
