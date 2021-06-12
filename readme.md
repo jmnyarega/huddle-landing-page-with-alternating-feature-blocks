@@ -22,7 +22,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/huddlelandingpagewithalternatingfeatureblocks-mobile-first-tLNb1NlxR)
 - Live Site URL: [Live Site](https://huddle-landing-page-with-alternating-feature-blocks-one.vercel.app/)
 
 ## My process
