@@ -23,7 +23,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://huddle-landing-page-with-alternating-feature-blocks-one.vercel.app/)
 
 ## My process
 

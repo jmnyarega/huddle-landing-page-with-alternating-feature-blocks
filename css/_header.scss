@@ -4,7 +4,7 @@
   align-items: center;
   flex-wrap: wrap;
 
-  margin-top: 2rem;
+  padding-top: 2rem;
 }
 
 .nav {
@@ -12,3 +12,18 @@
     padding: 0.3rem 1rem;
   }
 }
+
+.top-section {
+  background: no-repeat url(../images/bg-hero-mobile.svg);
+  background-position: center;
+  background-color: $very-pale-cyan;
+}
+
+@media (min-width: 450px) {
+  .top-section {
+    background: no-repeat url(../images/bg-hero-desktop.svg);
+    background-position: center;
+    background-color: $very-pale-cyan;
+  }
+}
+
